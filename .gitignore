@@ -1,0 +1,4 @@
+venv
+news_api*.json
+youtube_video*.json
+latest_prayer.json
